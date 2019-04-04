@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "383960684156",
+    "firebase_url": "https://braba-5f3c9.firebaseio.com",
+    "project_id": "braba-5f3c9",
+    "storage_bucket": "braba-5f3c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383960684156:android:667b4f1db28defd3",
+        "android_client_info": {
+          "package_name": "com.bible.amplified.test.bible"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383960684156-2gmsc8ujj1uhkm684bplf5dkjkk0v79t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bible.amplified.test.bible",
+            "certificate_hash": "5ccfd7bd3c0cb00eb79f27bde47813eee231f9e4"
+          }
+        },
+        {
+          "client_id": "383960684156-avdmmjoa90hfse2eg5r3rbe6kk4gobk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT-Cl6NKxbL20a2ZV4B8lDLw3FB86dVAA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383960684156-avdmmjoa90hfse2eg5r3rbe6kk4gobk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

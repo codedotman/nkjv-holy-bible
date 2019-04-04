@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+<item
+        android:id="@+id/navigation_read_bible"
+        app:showAsAction="always|withText"
+        android:checked="true"
+        android:icon="@drawable/ic_bible_img"
+        android:title="Bible" />
+
+    <item
+        android:id="@+id/navigation_note"
+        app:showAsAction="always|withText"
+        android:checked="false"
+        android:icon="@drawable/ic_note_img"
+        android:title="Note" />
+
+
+
+    <item
+        android:id="@+id/navigation_life_issues"
+        app:showAsAction="always|withText"
+        android:checked="false"
+        android:icon="@drawable/ic_daily_verse"
+        android:title="Life" />
+
+    <item
+        android:id="@+id/navigation_notify"
+        app:showAsAction="always|withText"
+        android:checked="false"
+        android:icon="@drawable/ic_notify"
+        android:title="DailyVerse" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        app:showAsAction="always|withText"
+        android:checked="false"
+        android:icon="@drawable/ic_settings"
+        android:title="Settings" />
+
+
+</menu>
